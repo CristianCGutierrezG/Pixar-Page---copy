@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
   font-family: brandon-grotesque;
-  src: url(assets/Font/BrandonGrotesque-Regular.ttf);
+  src: url(Font/BrandonGrotesque-Regular.ttf);
 }
 :root {
   --widthWindow: 0px;
