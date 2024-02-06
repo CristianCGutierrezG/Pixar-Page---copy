@@ -3,7 +3,7 @@
   <a href="https://cristiancgutierrezg.github.io/Pixar-Page-copy/" target="_blank">Pixar-Page-Copy</a>
 </h2>
 <div align="center">
-  ![Uploading presentation web - pagina pixar (1).png…]()
+  <img alt="Demo" src="assets/Image/presentationweb-paginapixar.png" />
 </div>
 
 Replica del Home de la pagina web <a href="https://www.pixar.com" target="_blank">www.pixar.com</a> 
@@ -23,5 +23,5 @@ Este proyecto fue hecho con las siguientes tecnologias
 
 **📱 Totalmente Responsive**
 
-**Practica de tecnologias Vanilla js y libreria <a href="https://basicscroll.electerious.com/" target="_blank">basicscroll</a>**
+**📑 Practica de tecnologias Vanilla js y libreria <a href="https://basicscroll.electerious.com/" target="_blank">basicscroll</a>**
 
